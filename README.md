@@ -13,10 +13,6 @@ URP pipeline (HDRP), but is untested.
 ## Features
 - Polaroid LUT/Camera Filter
 
-## Example[s]
-![image_016_0001](https://github.com/user-attachments/assets/6b34e86b-e44d-486b-98d8-56b330e6d68c)
-Polaroid Camera Filter
-
 ## Installation
 1. Download Polaroid.asset and load it into an unity project.
 2. Create a volume game object and load the volume profile in the volume component (or set your existing volume game object with the Polaroid Volume profile).
